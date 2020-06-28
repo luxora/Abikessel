@@ -1,0 +1,100 @@
+html
+{
+/*orange;*/
+ /*background-image: url('../css/bg.jpg');*/}
+
+
+
+#content
+{
+
+margin-left: 20%;
+margin-right: 20%;}
+
+#warning
+{
+border: 3px #F0e68c solid;
+ text-align: center;
+ background-color: #F0e68c;
+ margin-top: 20px;
+ color: red;
+ font-weight: bold;
+ font-size: 20px;
+}
+#kuerzeltabelle
+{background-color: white;
+ width: 400px;
+ float: center !important;}
+
+#abgabeschlusstermine
+{text-align: center; border: 2px solid #FF4500; background-color: white; height: 100px; }
+
+
+#bittebeachten
+{
+text-align: center;
+color: red;
+font-weight: bold;
+border: 2px solid yellow;
+background-color: white;
+height: 20px;
+width: 800px;
+margin-bottom: 40px;
+
+}
+
+#bittebeachten2
+{
+float: center !important;
+margin-left: 20%;
+text-align: center;
+color: red;
+font-weight: bold;
+border: 2px solid yellow;
+background-color: white;
+height: 60px;
+width: 800px;
+margin-bottom: 40px;
+border: 4px red solid;
+}
+
+#greenanonym
+{color: green; font-weight: bold;}
+
+#stepsabbrechen
+{text-align: left;
+ text-decoration: none;
+ font-size: 15px;
+ background-color: white;
+ width: 100px;
+}
+
+
+#abgabefristbeendet
+{
+background-color: white;
+border: 4px solid blue;
+font-weight: bold;
+}
+
+
+#backlinktointern
+{
+text-align: left;
+ text-decoration: none;
+ font-size: 15px;
+ background-color: white;
+ width: 200px;
+}
+
+
+
+#footer
+{
+text-align: center;
+font-size: 10px;
+color: black;
+margin-top: 200px !important;
+text-decoration: underline red;
+
+}
